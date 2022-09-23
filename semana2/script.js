@@ -50,21 +50,21 @@ objeto1 = {
     nomePrimeiroItem :'Travesseiro da nasa'.toUpperCase(),
     tamanhoPrimeiroItem : Number(30),
     confortoPrimeiroItem : false,
-    alturaPrimeiroItem : 25
+    alturaPrimeiroItem : [25]
 }
 
 objeto2 = {
     nomeSegundoItem : 'Travesseiro Ortpédico'.toUpperCase(),
     tamanhoSegundoItem : Number(50),
     confortoSegundoItem : true,
-    alturaSegundoItem : 30
+    alturaSegundoItem : [30]
 }
 
 objeto3 = {
     nomeTerceiroItem : 'Travesseiro Fino'.toUpperCase(),
     tamanhoTerceiroItem : Number(25),
     confortoTerceiroItem : false,
-    alturaTerceiroItem : 5
+    alturaTerceiroItem : [5]
 }
 
 
