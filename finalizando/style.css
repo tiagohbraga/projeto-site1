@@ -37,7 +37,7 @@ header {
 
 input {
     margin-top: 0;
-    border: 2px solid black;
+    border: 2px solid rgb(239, 243, 7);
     align-items: center;
 
 }
@@ -62,7 +62,13 @@ aside {
 }
 
 
-
+#Fusca1 {
+    background-color: aliceblue;
+    align-items: flex-end;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0%;
+}
 
 #station img {
 
